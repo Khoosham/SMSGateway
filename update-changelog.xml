@@ -1,9 +1,0 @@
-<AppUpdater>
-<update>
-<latestVersion>1.0.0</latestVersion>
-<url>https://github.com/javiersantos/AppUpdater/releases</url>
-<releaseNotes>
-- Bug fixes
-</releaseNotes>
-</update>
-</AppUpdater>
